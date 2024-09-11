@@ -1,0 +1,1 @@
+Calculate domain with 404 sub domain while redirecting from nginx proxy manager. Currently using 404.rkrao.me only
